@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #020617; /* Very dark slate (almost black) */
+  color: #f1f5f9;
+}
+
+/* The Modern Dot Grid Pattern */
+.bg-grid-pattern {
+  background-color: #020617;
+  background-image: radial-gradient(#1e293b 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+
+
+/* ### Step 5: Install Icons */
+/* The code I generated for you uses `lucide-react` for the icons (trash can, edit pencil, sidebar icons). Install it now:
+
+```bash
+npm install lucide-react
+```
+
+### Step 6: Clean Up & Run
+To make sure everything is working:
+
+1.  Delete `src/App.css` (we don't need it because we are using Tailwind).
+2.  Run the development server:
+
+```bash
+npm run dev */
