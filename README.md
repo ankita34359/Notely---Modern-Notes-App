@@ -75,6 +75,7 @@ npm run build
 The project follows a scalable, component-based architecture.
 
 src/
+
 ├── assets/            # Static images and global assets
 
 ├── App.jsx            # Main application logic (State, Layout, Routing)
