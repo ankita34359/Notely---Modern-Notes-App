@@ -1,12 +1,12 @@
-Notely - Modern Notes App
+**Notely - Modern Notes App**
 
 A responsive, feature-rich notes management application built with React and Tailwind CSS. This project allows users to create, edit, delete, and categorize notes with local storage persistence and duplicate title detection.
 
-🚀 Live Demo
+**🚀 Live Demo**
 
 (Insert your deployed link here, e.g., https://www.google.com/search?q=https://my-notes-app.vercel.app)
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Frontend: React.js
 
