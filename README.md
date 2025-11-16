@@ -110,8 +110,3 @@ Click Deploy.
 ## 👨‍💻 Developer
 
 Developed by Ankita Gupta
-
-
----
-
-This markdown contains all the necessary sections and formatting for your README. You can now easily copy and paste it into your project file!
